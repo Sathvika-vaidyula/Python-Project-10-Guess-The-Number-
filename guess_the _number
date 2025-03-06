@@ -1,0 +1,16 @@
+🎮 Number Guessing Game
+A simple Python game where you guess a number between 1 and 100!
+
+🔹 How to Play
+Run the game:
+python guess_the_number.py
+
+Select a difficulty:
+Easy → 10 attempts
+Hard → 5 attempts
+Keep guessing until you find the correct number or run out of attempts.
+
+🛠 Requirements
+Python 3.x
+
+Have fun guessing! 🎯
